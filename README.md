@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gdanja
 - 👀 I’m interested in Cyber Secruity, App Development
-- 🌱 I’m currently learning C#, EF Core, Angular, Ethical Hacking, E-Commerce Building high converting shops!
+- 🌱 I’m currently learning C#, EF Core, Angular, Ethical Hacking & E-Commerce!
 - 💞️ I’m looking to collaborate on special and exciting projects!
 - 📫 How to reach me: message me here.
 
